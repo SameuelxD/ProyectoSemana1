@@ -3,7 +3,7 @@
 # Entrega dia 16 de Diciembre del 2024
 
 # Implementacion 
-## Para ejecutar el siguiente script que su principal logica es agregar tareas de usuarios con un nombre y decripcion asignando un valor de pendientes o completadas , necesitamos utilizar una version de python actualziada , necesitamos la libreria sqlalchemy para interactuar con la base de datos SQLite para la persistencia. 
+## Para ejecutar el siguiente script que su principal logica es agregar tareas de usuarios con un nombre y decripcion asignando un valor de pendientes o completadas , necesitamos utilizar una version de python actualizada , necesitamos la libreria sqlalchemy para interactuar con la base de datos SQLite para la persistencia. 
 
 # Funcionalidades del Menú
 ### La aplicación tiene un menú interactivo que permite al usuario realizar diversas operaciones de gestión de tareas.
