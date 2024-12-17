@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Comprar víveres",
+        "description": "Comprar leche, pan y huevos",
+        "completed": false
+    },
+    {
+        "title": "Hacer ejercicio",
+        "description": "30 minutos de cardio",
+        "completed": true
+    },
+    {
+        "title": "Enforcar mi mente",
+        "description": "Sin distracciones",
+        "completed": true
+    }
+]
