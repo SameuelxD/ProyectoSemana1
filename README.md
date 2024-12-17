@@ -2,6 +2,11 @@
 # Proyecto Semana 1 , Curso de Inteligencia Artificial 
 # Entrega dia 16 de Diciembre del 2024
 
+# Requerimientos y desarrollo del script
+
+![taller](https://github.com/user-attachments/assets/feb377c8-4b6c-404e-8121-e66deee7f70a)
+
+
 # Implementacion 
 ## Para ejecutar el siguiente script que su principal logica es agregar tareas de usuarios con un nombre y descripcion asignando un valor de pendientes o completadas , necesitamos utilizar una version de python actualizada , necesitamos la libreria sqlalchemy para interactuar con la base de datos SQLite para la persistencia. 
 
